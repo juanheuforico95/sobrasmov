@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Week 7</string>
+    <string name="saludo">Que Pedro, mi Juan</string>
+    <string name="request">Solicitud</string>
+    <string name="json_request">Solicitud de JSON</string>
+    <string name="toast">Tostado</string>
+
+</resources>

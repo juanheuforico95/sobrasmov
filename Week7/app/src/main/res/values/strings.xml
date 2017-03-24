@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week 7</string>
+    <string name="saludo">What peter my John</string>
+    <string name="request">Request</string>
+    <string name="json_request">JSON Request</string>
+    <string name="toast">Toasted</string>
+</resources>

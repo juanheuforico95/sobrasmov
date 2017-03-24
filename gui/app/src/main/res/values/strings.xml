@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">gui</string>
+    <string name="hola">Inicio</string>
+    <string name="adios">Salir</string>
+
+</resources>
